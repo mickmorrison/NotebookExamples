@@ -1,3 +1,8 @@
+# Install necessary packages - This part can be skipped if using install.R for Binder setup
+# if (!requireNamespace("dplyr", quietly = TRUE)) install.packages("dplyr")
+# if (!requireNamespace("ggplot2", quietly = TRUE)) install.packages("ggplot2")
+# if (!requireNamespace("sf", quietly = TRUE)) install.packages("sf")
+
 # Load the required libraries
 library(dplyr)
 library(ggplot2)
