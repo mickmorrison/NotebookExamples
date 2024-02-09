@@ -1,2 +1,3 @@
 libudunits2-dev
 libproj-dev
+libgdal-dev
